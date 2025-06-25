@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+* {
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+.center-text {
+  text-align: center;
+}
+.left-text {
+  text-align: left;
+}
+.blue-color {
+  color: #00A9FF;
+}
+.textdecoration-none {
+  text-decoration: none;
+  color: black;
+}
+.pointer {
+  cursor: pointer;
+}
