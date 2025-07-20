@@ -117,7 +117,7 @@ export const Login = () => {
                 <input
                   className="login-input"
                   type="text"
-                  placeholder="zee"
+                  placeholder="suraj"
                   name="username"
                   value={loginValue.username}
                   onChange={handleLoginInputChange}
