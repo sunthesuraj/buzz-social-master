@@ -57,7 +57,7 @@ export const Signup = () => {
               First Name{" "}
               <input
                 type="text"
-                placeholder="Zeeshan"
+                placeholder="Suraj"
                 required
                 className="login-input"
                 name="firstName"
@@ -69,7 +69,7 @@ export const Signup = () => {
               Last Name{" "}
               <input
                 type="text"
-                placeholder="Akhter"
+                placeholder="Singh"
                 required
                 className="login-input"
                 name="lastName"
@@ -81,7 +81,7 @@ export const Signup = () => {
               Username{" "}
               <input
                 type="text"
-                placeholder="zee"
+                placeholder="sunthesuraj"
                 required
                 className="login-input"
                 name="username"
@@ -93,7 +93,7 @@ export const Signup = () => {
               Email Address{" "}
               <input
                 type="email"
-                placeholder="zeeshanakhter@gmail.com"
+                placeholder="surajjaud1999@gmail.com"
                 required
                 className="login-input"
                 name="email"
