@@ -1,3 +1,56 @@
+# 🚀 Buzz – Social Media App (MERN Stack)
+
+Buzz is a full-stack social media application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to sign up, log in, post content, like, comment, share, and bookmark posts — providing a complete modern social media experience.
+
+---
+
+## 🔧 Tech Stack
+
+**Frontend:**  
+- React.js  
+- Axios  
+- Tailwind CSS or CSS Modules (optional)  
+- Context API / Redux for state management (if used)
+
+**Backend:**  
+- Node.js  
+- Express.js  
+- MongoDB (via Mongoose ODM)  
+- JSON Web Tokens (JWT) for authentication  
+- bcrypt for password hashing  
+- Multer or Cloudinary for media uploads (optional)
+
+---
+
+## ✨ Features
+
+### 🔐 Authentication
+- User Signup, Login, Logout
+- Passwords securely hashed with `bcrypt`
+- JWT-based authentication with token expiry handling
+- Protected routes and role checks via middleware
+
+### 📝 Post System
+- Create, edit, delete posts
+- Attach images (optional)
+- View a feed of all posts
+
+### ❤️ Engagement
+- Like and unlike posts
+- Comment on posts
+- Share posts (via copy link or repost functionality)
+
+### 📌 Bookmarking
+- Bookmark and unbookmark any post
+- View your saved/bookmarked list
+
+### 📄 Profile Management
+- View and edit profile
+- View personal post history
+- Follower/following system (optional)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
