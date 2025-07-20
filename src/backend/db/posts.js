@@ -127,7 +127,7 @@ export const posts = [
       {
         id: uuid(),
         createdAt: "2024-02-14",
-        username: "adarashbalika",
+        username: "sunthesuraj",
         comment: "Love the ambiance! 😊",
       },
       {
@@ -167,8 +167,8 @@ export const posts = [
         comment: "Who's the DJ?",
       },
     ],
-    fullname: "Adarsh Balika",
-    username: "adarshbalika",
+    fullname: "Suraj Singh",
+    username: "sunthesuraj",
     postImage: [
       "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBhcnR5JTIwdGltZXxlbnwwfHwwfHx8MA%3D%3D",
     ],

@@ -8,15 +8,15 @@ import { formatDate } from "../utils/authUtils";
 export const users = [
   {
     _id: uuid(),
-    firstName: "Adarsh",
-    lastName: "Balika",
-    username: "adarshbalika",
-    password: "adarshBalika123",
+    firstName: "Suraj",
+    lastName: "Singh",
+    username: "sunthesuraj",
+    password: "Suraj@321",
     createdAt: formatDate(),
     updatedAt: formatDate(),
     profileAvatar: "https://res.cloudinary.com/dkfqnzabv/image/upload/v1708085384/buzz-social/avatar8_ihmftk.jpg",
     bio: "Passionate learner dedicated to exploring the intersections of art and technology for creative problem-solving. Embracing challenges with an open mind and a thirst for knowledge.",
-    website: "https://zeeshanakhter.netlify.app/",
+    website: "https://www.linkedin.com/in/suraj-singh-194489154/",
     background: "https://res.cloudinary.com/dkfqnzabv/image/upload/v1683230925/cld-sample-4.jpg",
   },
   {
@@ -29,7 +29,7 @@ export const users = [
     updatedAt: formatDate(),
     profileAvatar: "https://res.cloudinary.com/dkfqnzabv/image/upload/v1708085375/buzz-social/avatar3_bswuoz.jpg",
     bio: "I'm a front-end engineer with great experience in building modern web applications. I'm passionate about HTML5, CSS3, and JavaScript as well as React JS and its ecosystem. I love delivering fast-loading, clean, and high-performance web experiences. I'm a strong believer in good UX and frontend performance optimization and ship reliable software which can be maintained easily and efficiently.",
-    website: "https://zeeshanakhter.netlify.app/",
+    website: "https://www.linkedin.com/in/suraj-singh-194489154/",
     background: "https://res.cloudinary.com/dkfqnzabv/image/upload/v1683230912/samples/cloudinary-group.jpg",
   },
   {
@@ -42,7 +42,7 @@ export const users = [
     updatedAt: formatDate(),
     profileAvatar: "https://res.cloudinary.com/dkfqnzabv/image/upload/v1708085374/buzz-social/avatar5_wtdolx.jpg",
     bio: "#NEET ASPIRANT",
-    website: "https://zeeshanakhter.netlify.app/",
+    website: "https://www.linkedin.com/in/suraj-singh-194489154/",
     background: "https://res.cloudinary.com/dkfqnzabv/image/upload/v1683230915/samples/landscapes/landscape-panorama.jpg",
   },
   {
